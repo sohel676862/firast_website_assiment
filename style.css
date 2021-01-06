@@ -80,14 +80,14 @@
 }
 
 .about_half_area {
-    width: 40%;
+    width: 50%;
     float: left;
 }
 
 .about_img {
     width: 70%;
-    float: right;
-    margin-top: -100px;
+    padding: 20px;
+    margin-top: -140px;
 }
 
 .about_half_area h1 {
@@ -105,6 +105,8 @@
 
 .protfolio_text {
     float: right;
+    margin-left: 78px;
+    margin-top: 20px;
 }
 
 #clearfixt {
